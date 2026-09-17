@@ -1,3 +1,4 @@
+
 # Aplikasi Parkir - Terminal Parangtritis
 
 Aplikasi manajemen parkir untuk **Terminal Parangtritis**, dibangun dengan PHP native + MySQL (PDO)
@@ -8,6 +9,7 @@ Selain alur parkir dasar (masuk/keluar/struk), aplikasi ini juga dilengkapi fitu
 **booking online oleh member**, **notifikasi booking real-time** untuk petugas,
 **denda keterlambatan booking**, serta **landing page publik** dengan video profil,
 QRIS, dan moderasi testimoni.
+**Dokumen**[Dokumen](https://canva.link/85d2gjhlt7uf8q8)
 
 ## 1. Struktur Folder
 
@@ -169,3 +171,5 @@ Dibuat sesuai kerangka struktur project yang diberikan, untuk memenuhi ketentuan
 Soal Praktik Kejuruan "Pengembangan Aplikasi Parkir" (Paket 2, RPL 2025/2026),
 ditematik ulang dan dikembangkan lebih lanjut (booking online, denda keterlambatan,
 landing page & testimoni) untuk kebutuhan parkir **Terminal Parangtritis**.
+
+
